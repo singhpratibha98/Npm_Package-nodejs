@@ -1,0 +1,19 @@
+{
+  "name": "pratibha2_npmmodule",
+  "version": "1.0.1",
+  "description": "\"my test npm modules\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"npm js\""
+  },
+  "keywords": [
+    "test",
+    "api",
+    "backend"
+  ],
+  "author": "pratibha",
+  "license": "ISC",
+  "dependencies": {
+    "array-utils": "^0.0.6"
+  }
+}
